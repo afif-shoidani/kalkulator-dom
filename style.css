@@ -1,0 +1,28 @@
+.tombol {
+  background-color: rgb(88, 219, 134);
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+  margin-top: 15px;
+  margin: 5px;
+}
+.tabel {
+  background-color: rgb(250, 190, 190);
+  margin: 10px;
+  padding: 10px;
+}
+input {
+  width: 230px;
+  height: 30px;
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#hasil {
+  background-color: rgb(197, 227, 227);
+  height: 50px;
+  width: 230px;
+  font-size: 26px;
+}
